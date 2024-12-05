@@ -1,1 +1,1 @@
-# IFT-301-data-analysis-assignment-1-
+# IFT 301 assignment solution using python pandas and matplot libary
